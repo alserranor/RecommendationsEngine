@@ -10,7 +10,7 @@ A recommendations engine to propose new movies to users, based on MovieTweetings
  - movies_clean.csv: A movie ratings dataset based on [MovieTweetings](http://crowdrec2013.noahlab.com.hk/papers/crowdrec2013_Dooms.pdf) data. See this [link](https://github.com/sidooms/MovieTweetings) for more information.
  - train_data.csv: Training dataset for the Recommender.
  - LICENSE: MIT license for the code of the repository
- - README.md; This file
+ - README.md: This file.
 
 ## License
 The code used in this repository is licensed under a MIT license included in LICENSE.txt
