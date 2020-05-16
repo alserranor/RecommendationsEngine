@@ -13,7 +13,8 @@ A recommendations engine to propose new movies to users, based on MovieTweetings
  - README.md: This file.
 
 ## License
-The code used in this repository is licensed under a MIT license included in LICENSE.txt
+
+The code used in this repository is licensed under a MIT license included in LICENSE.
 
 ## Acknowledgements
 
